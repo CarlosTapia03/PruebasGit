@@ -7,6 +7,7 @@ public class Start {
 		
 		System.out.println("Hola mundo");
 		System.out.println("master hola");
+		System.out.println("personas hola");
 
 	}
 
